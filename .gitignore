@@ -1,0 +1,5 @@
+*.jpg
+/dist
+/build
+/__pycache__
+resize/__pycache__

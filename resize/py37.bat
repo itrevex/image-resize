@@ -1,0 +1,1 @@
+py -3.7-64 resize.py "E:\Projects\ESAI\PROGRAMMING\PYTHON\IMAGES\resize\images\resize.trre"
